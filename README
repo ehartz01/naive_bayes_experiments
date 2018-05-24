@@ -1,0 +1,6 @@
+README
+
+To run, simply type into the command line:
+python nbayes_classifier.py
+
+The program will run the experiments and will show a total of 6 graphs (3 for each experiment)
